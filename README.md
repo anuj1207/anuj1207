@@ -8,7 +8,7 @@
 	Connect with me on:  
 <a href="https://twitter.com/anuj1207" target="blank"><img align="center" src="https://raw.githubusercontent.com/anuj1207/anuj1207/main/icons/twitter.svg" alt="anuj1207" height="15" width="20" /></a>
 <a href="https://linkedin.com/in/anuj-saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/anuj1207/anuj1207/main/icons/linkedin.svg" alt="in/anuj-saxena" height="15" width="20" /></a>
-<a href="https://instagram.com/anuj1207" target="blank"><img align="center" src="https://raw.githubusercontent.com/anuj1207/anuj1207/main/icons/instagram.svg" alt="anuj1207" height="15" width="20" /></a>
+<a href="https://instagram.com/anuj.633" target="blank"><img align="center" src="https://raw.githubusercontent.com/anuj1207/anuj1207/main/icons/instagram.svg" alt="anuj.633" height="15" width="20" /></a>
  to engage, share, ask questions and collaborate together!
 </h4>
 
